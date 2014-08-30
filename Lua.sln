@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lua", "Lua\Lua.vcxproj", "{FE6B4C44-B423-48FE-809F-A1E52A04D843}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuaC", "LuaC\LuaC.vcxproj", "{D03191B7-1E88-40D2-B4DC-110E1109CC3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6B4C44-B423-48FE-809F-A1E52A04D843}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE6B4C44-B423-48FE-809F-A1E52A04D843}.Debug|Win32.Build.0 = Debug|Win32
+		{FE6B4C44-B423-48FE-809F-A1E52A04D843}.Release|Win32.ActiveCfg = Release|Win32
+		{FE6B4C44-B423-48FE-809F-A1E52A04D843}.Release|Win32.Build.0 = Release|Win32
+		{D03191B7-1E88-40D2-B4DC-110E1109CC3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D03191B7-1E88-40D2-B4DC-110E1109CC3C}.Debug|Win32.Build.0 = Debug|Win32
+		{D03191B7-1E88-40D2-B4DC-110E1109CC3C}.Release|Win32.ActiveCfg = Release|Win32
+		{D03191B7-1E88-40D2-B4DC-110E1109CC3C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
